@@ -1,3 +1,3 @@
 # Torrent-FastAPI
 ## API ENDPOINT
-https://gettorrentapi.herokuapp.com/torrent/?query=any
+https://gettorrentapi.herokuapp.com/torrent/?query=
