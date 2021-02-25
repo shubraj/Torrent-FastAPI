@@ -1,3 +1,3 @@
 # Torrent-FastAPI
 ## API ENDPOINT
-https://api.shubraj.cf/torrent/
+https://api.shubraj.com/torrent/
